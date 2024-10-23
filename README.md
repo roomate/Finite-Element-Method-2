@@ -4,4 +4,4 @@ This repository stores the code of an introductory course to a non-conformal Fin
 
 A simple way to observe this is the points of discontinuities at the interface of the finite elements, see below.
 
-<img src="img/uh1.jpg" alt="drawing" width="400"/> <img src="img/uh1_coup.jpg" alt="drawing" width="350"/>
+<img src="img/uh1.PNG" alt="drawing" width="400"/> <img src="img/uh1_coup.PNG" alt="drawing" width="350"/>
